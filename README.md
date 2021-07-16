@@ -1,7 +1,7 @@
-# MSc-Thesis
-The codes related to my M.Sc. Thesis in 2010.
+# LAG (Learning Automata data Aggregation) Algorithm
+The code is related to my M.Sc. Thesis, in 2010.
 
-Data Aggregation and Routing Optimization in Wireless Sensor Network using <b>Learning Automata(Reinforcement Learning)<b> and <b>Swarm Intelligence(Ant Colony Optimization)<b>.
+It focuse on Data Aggregation and Routing Optimization in Wireless Sensor Network using <b>Learning Automata(Reinforcement Learning)<b> and <b>Swarm Intelligence(Ant Colony Optimization)<b>.
   
 <b>Target<b>: Maximizing Network LifeTime
 
