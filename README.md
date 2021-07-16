@@ -1,7 +1,9 @@
 # LAG (Learning Automata data Aggregation) Algorithm
-The code is related to my M.Sc. Thesis, in 2010.
+The code is related to my M.Sc. Thesis, in 2011.
 
 It focuse on Data Aggregation and Routing Optimization in Wireless Sensor Network using <b>Learning Automata(Reinforcement Learning)<b> and <b>Swarm Intelligence(Ant Colony Optimization)<b>.
+  
+In 2015, a paper is published in "Wireless Networks Journal" based on this work (https://doi.org/10.1007/s11276-015-0894-3)
   
 <b>Target<b>: Maximizing Network LifeTime
 
